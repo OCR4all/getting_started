@@ -7,5 +7,10 @@ This repository contains two guides. One deals with the installation process,
 the second one gives a brief overview over the functionality using two historical
 books (also available in this repository) as hands-on examples.
 
+To get started, it is recommended to download the entire repository
+("Clone or download" -> "Download ZIP"), install OCR4all by folowing the setup guide,
+and then get some hand-on experience by working with the examples covered in the
+shoer user guide.
+
 Both guides will be continuously improved and refined. Therefore, user feedback is
 always welcome.
