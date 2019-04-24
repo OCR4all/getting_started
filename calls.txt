@@ -1,6 +1,6 @@
 Linux and macOS:
 
-docker run -p 1476:8080 -p 5000:5000 -u `id -u root`:`id -g $USER` --name ocr4all \
+sudo docker run -p 1476:8080 -p 5000:5000 -u `id -u root`:`id -g $USER` --name ocr4all \
 -v $PWD/data:/var/ocr4all/data \
 -v $PWD/models:/var/ocr4all/models/custom \
 -it ocr4all
