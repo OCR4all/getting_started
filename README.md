@@ -14,3 +14,10 @@ shoer user guide.
 
 Both guides will be continuously improved and refined. Therefore, user feedback is
 always welcome.
+
+## Current Developments
+
+Plans for the (very) near future:
+* Enabling a second project management approach solely based on PageXML allowing for a more flexible workflow.
+* Integrating Tesseract for recognition.
+* Many minor bug fixes and improvements.
