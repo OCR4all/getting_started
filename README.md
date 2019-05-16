@@ -1,3 +1,5 @@
+# Getting Started With OCR4all
+
 As suggested by the name one of the main goals of OCR4all is to allow basically
 any given user to independently perform OCR on a wide variety of historical printings
 and obtain high quality results with reasonable time expenditure. Therefore, OCR4all
@@ -14,6 +16,10 @@ shoer user guide.
 
 Both guides will be continuously improved and refined. Therefore, user feedback is
 always welcome.
+
+## Mailing List
+
+OCR4all is under active development and consequently, frequent releases containing bug fixes and further functionality can be expected. In order to always be up to date, we highly recommend subscribing to our [mailing list](https://lists.uni-wuerzburg.de/mailman/listinfo/ocr4all) where we will always announce notable enhancements.
 
 ## Current Developments
 
