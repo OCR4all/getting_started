@@ -12,7 +12,7 @@ books (also available in this repository) as hands-on examples.
 To get started, it is recommended to download the entire repository
 ("Clone or download" -> "Download ZIP"), install OCR4all by following the setup guide,
 and then get some hand-on experience by working with the examples covered in the
-shoer user guide.
+short user guide.
 
 Both guides will be continuously improved and refined. Therefore, user feedback is
 always welcome.
