@@ -1,6 +1,6 @@
 Linux and macOS:
 
-sudo docker run -p 1476:8080 -p 5000:5000 -u `id -u root`:`id -g $USER` --name ocr4all \
+sudo docker run -p 1476:8080 -u `id -u root`:`id -g $USER` --name ocr4all \
 -v $PWD/data:/var/ocr4all/data \
 -v $PWD/models:/var/ocr4all/models/custom \
 -it ls6uniwue/ocr4all
@@ -9,10 +9,10 @@ sudo docker run -p 1476:8080 -p 5000:5000 -u `id -u root`:`id -g $USER` --name o
 
 Docker for Windows:
 
-docker run -p 1476:8080 -p 5000:5000 --name ocr4all -v C:\Users\Public\ocr4all\data:/var/ocr4all/data -v C:\Users\Public\ocr4all\models:/var/ocr4all/models/custom -it ls6uniwue/ocr4all
+docker run -p 1476:8080 --name ocr4all -v C:\Users\Public\ocr4all\data:/var/ocr4all/data -v C:\Users\Public\ocr4all\models:/var/ocr4all/models/custom -it ls6uniwue/ocr4all
 
 
 
 Docker Toolbox:
 
-docker run -p 1476:8080 -p 5000:5000 --name ocr4all -v /c/Users/Public/ocr4all/data:/var/ocr4all/data -v /c/Users/Public/ocr4all/models:/var/ocr4all/models/custom -it ls6uniwue/ocr4all
+docker run -p 1476:8080 --name ocr4all -v /c/Users/Public/ocr4all/data:/var/ocr4all/data -v /c/Users/Public/ocr4all/models:/var/ocr4all/models/custom -it ls6uniwue/ocr4all
