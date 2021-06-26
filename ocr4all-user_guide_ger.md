@@ -3,7 +3,7 @@
 Ein Open Source-Tool für einen (semi-)automatischen OCR-Workflow an
 historischen Drucken
 
-<img src="./media/ocr4all-user_guide_ger/media/image1.png" style="width:3.13889in;height:2.76458in" />
+<img src="./media/ocr4all-user_guide_ger/media/image1.png" />
 
 <u>Anleitung                                                                                  </u>
 
